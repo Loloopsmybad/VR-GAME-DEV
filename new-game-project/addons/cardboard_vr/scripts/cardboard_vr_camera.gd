@@ -10,7 +10,7 @@ class_name CardboardVRCamera extends Camera3D
 @export var Input_Cancel : String  = "cancel"
 
 @export_category("Eyes")
-@export_range(0.1, 2.0) var EyesSeparation : float = 2
+@export_range(0.1, 2.0) var EyesSeparation : float = 0.1
 @export_range(0, 5.0) var EyeHeight : float =  0.8
 @export_range(-360, 360) var EyeConvergencyAngle : float =  3
 

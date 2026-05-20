@@ -12,8 +12,9 @@ script = ExtResource("1_cc814")
 shape = SubResource("CapsuleShape3D_6ytbd")
 
 [node name="CardboardVRCamera3D" type="Camera3D" parent="." unique_id=1709672068]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.61867476, 0)
+transform = Transform3D(0.01, 0, 0, 0, 0.01, 0, 0, 0, 0.01, 0, 0.61867476, 0)
 script = ExtResource("2_urgpd")
+UseGysroscope = false
 Mouse_Sensitivity = 0.005
 GysroscopeFactor = null
 RotateParent = null
