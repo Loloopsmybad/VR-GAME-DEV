@@ -4,9 +4,8 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk8j2yao7jw3r"
 path.s3tc="res://.godot/imported/burnout_revenge_white_mountain_34.png-cc27fe48b5189dbcc0c86cc93ba9661c.s3tc.ctex"
-path.etc2="res://.godot/imported/burnout_revenge_white_mountain_34.png-cc27fe48b5189dbcc0c86cc93ba9661c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -16,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://world/burnout_revenge_white_mountain_34.png"
-dest_files=["res://.godot/imported/burnout_revenge_white_mountain_34.png-cc27fe48b5189dbcc0c86cc93ba9661c.s3tc.ctex", "res://.godot/imported/burnout_revenge_white_mountain_34.png-cc27fe48b5189dbcc0c86cc93ba9661c.etc2.ctex"]
+dest_files=["res://.godot/imported/burnout_revenge_white_mountain_34.png-cc27fe48b5189dbcc0c86cc93ba9661c.s3tc.ctex"]
 
 [params]
 
