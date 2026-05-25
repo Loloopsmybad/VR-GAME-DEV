@@ -1,0 +1,11 @@
+Model Information:
+* title:	Volkswagen I.D.R - with interior
+* source:	https://sketchfab.com/3d-models/volkswagen-idr-with-interior-109ed75bc4df4400a308cbff7cc70f6d
+* author:	tulex_art (https://sketchfab.com/CassioFernandes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Volkswagen I.D.R - with interior" (https://sketchfab.com/3d-models/volkswagen-idr-with-interior-109ed75bc4df4400a308cbff7cc70f6d) by tulex_art (https://sketchfab.com/CassioFernandes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

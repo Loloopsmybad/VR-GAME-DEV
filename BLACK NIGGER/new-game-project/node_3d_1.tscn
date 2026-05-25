@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://hmnwktjkbqa7"]
+
+[ext_resource type="PackedScene" uid="uid://c4ow23urxjop" path="res://track/sketchfab_scene.tscn" id="2_lbyad"]
+[ext_resource type="PackedScene" uid="uid://b067dx0bb36tm" path="res://car/sketchfab_scene.tscn" id="3_perb4"]
+
+[sub_resource type="Environment" id="Environment_a202f"]
+
+[sub_resource type="CameraAttributesPhysical" id="CameraAttributesPhysical_noarx"]
+
+[node name="Node3D" type="Node3D" unique_id=281692728]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="." unique_id=879008825]
+environment = SubResource("Environment_a202f")
+camera_attributes = SubResource("CameraAttributesPhysical_noarx")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1242576786]
+transform = Transform3D(0.80885434, 0.5754817, 0.120728225, -0.41253367, 0.40907648, 0.81392413, 0.4190114, -0.70815057, 0.5682888, 0, -0.29339027, 0)
+shadow_enabled = true
+
+[node name="Sketchfab_Scene" parent="." unique_id=1691965265 instance=ExtResource("2_lbyad")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 156.78912, -19.172836, 27.661945)
+
+[node name="Sketchfab_Scene2" parent="." unique_id=1164452284 instance=ExtResource("3_perb4")]
+transform = Transform3D(0.9995998, 0.028288014, 0, -0.028288014, 0.9995998, 0, 0, 0, 1, 201.66653, -16.812298, 55.03231)
